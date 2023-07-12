@@ -1,1 +1,1 @@
-# BlogDeCafé_MyThirdProject
+# CoffeeBlog_MyThirdProject
